@@ -1,0 +1,25 @@
+# ninja log v6
+38	1236	7667643898578202	CMakeFiles/JetbrainsC__.dir/Gun.cpp.obj	1955ec87cc0b3dde
+14	1284	7667675159543087	CMakeFiles/JetbrainsC__.dir/main.cpp.obj	48600899a6e4b906
+19	968	7667842006571946	CMakeFiles/JetbrainsC__.dir/Employee.cpp.obj	fbdd1d7ca2951d30
+72	331	7667829034168299	CMakeFiles/JetbrainsC__.dir/CommissionEmployee.cpp.obj	4c2649f80f54320d
+1286	1647	7667675172261876	JetbrainsC__.exe	b16d8991090fbd8b
+5	348	7667948922277347	build.ninja	a175bc2ac0586a1a
+61	328	7667829034065124	CMakeFiles/JetbrainsC__.dir/HourlyEmployee.cpp.obj	7047d436f92a8220
+52	330	7667829033969008	CMakeFiles/JetbrainsC__.dir/SalariedEmployee.cpp.obj	7245184653753e6d
+43	610	7667829033875873	CMakeFiles/JetbrainsC__.dir/PayrollEmployee.cpp.obj	3a96eb8e3cae9668
+29	965	7667842006681725	CMakeFiles/JetbrainsC__.dir/Manager.cpp.obj	403dca50aeccbdd3
+26	1002	7667829033700097	CMakeFiles/JetbrainsC__.dir/Addresses.cpp.obj	b4a5d8e1b1dce40b
+6	414	7667948922277347	build.ninja	a175bc2ac0586a1a
+43	1030	7667948923095566	CMakeFiles/JetbrainsC__.dir/HourlyEmployee.cpp.obj	7047d436f92a8220
+33	1034	7667948923001338	CMakeFiles/JetbrainsC__.dir/SalariedEmployee.cpp.obj	7245184653753e6d
+54	1044	7667948923205530	CMakeFiles/JetbrainsC__.dir/CommissionEmployee.cpp.obj	4c2649f80f54320d
+24	1123	7667948922905655	CMakeFiles/JetbrainsC__.dir/Manager.cpp.obj	403dca50aeccbdd3
+16	1129	7667948922830741	CMakeFiles/JetbrainsC__.dir/Employee.cpp.obj	fbdd1d7ca2951d30
+8	1501	7667948922748522	CMakeFiles/JetbrainsC__.dir/main.cpp.obj	48600899a6e4b906
+1501	1769	7667948937679524	JetbrainsC__.exe	74d4d2fd00875ecb
+16	961	7667949189368682	CMakeFiles/JetbrainsC__.dir/main.cpp.obj	48600899a6e4b906
+962	1174	7667949198821899	JetbrainsC__.exe	74d4d2fd00875ecb
+18	634	7668279857921116	CMakeFiles/JetbrainsC__.dir/HourlyEmployee.cpp.obj	7047d436f92a8220
+10	1254	7668279857846309	CMakeFiles/JetbrainsC__.dir/main.cpp.obj	48600899a6e4b906
+1254	1541	7668279870282896	JetbrainsC__.exe	74d4d2fd00875ecb
