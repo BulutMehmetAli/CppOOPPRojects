@@ -1,0 +1,3 @@
+D:/JetbrainsC++/TechnologyStore/cmake-build-debug/CMakeFiles/TechnologyStore.dir
+D:/JetbrainsC++/TechnologyStore/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/JetbrainsC++/TechnologyStore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
